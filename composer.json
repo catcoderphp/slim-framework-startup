@@ -10,7 +10,8 @@
         "illuminate/events":"*",
         "illuminate/filesystem":"*",
         "guzzlehttp/guzzle":"*",
-        "slim/slim": "^2.6"
+        "slim/slim": "^2.6",
+        "components/jquery": "1.9.*"
     },
 
     "autoload" : {
