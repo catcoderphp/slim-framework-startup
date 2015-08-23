@@ -1,0 +1,21 @@
+{
+    "require": {
+        "illuminate/database":"*",
+        "psr/log":"*",
+        "jeremeamia/superclosure":"*",
+        "symfony/var-dumper":"*",
+        "doctrine/dbal":"*",
+        "fzaninotto/faker":"*",
+        "illuminate/console":"*",
+        "illuminate/events":"*",
+        "illuminate/filesystem":"*",
+        "guzzlehttp/guzzle":"*",
+        "slim/slim": "^2.6"
+    },
+
+    "autoload" : {
+        "classmap" : [
+            "models"
+        ]
+    }
+}
